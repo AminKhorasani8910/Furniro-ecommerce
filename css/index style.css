@@ -464,6 +464,14 @@ body {
 
 }
 
+.d-none{
+    display: none;
+}
+
+.d-block{
+    display: block;
+}
+
 .container{
     max-width: 1168px;
     margin: 0 auto;
