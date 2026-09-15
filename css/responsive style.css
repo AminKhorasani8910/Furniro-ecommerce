@@ -130,4 +130,10 @@
   .furniture-info h4{
     font-size: 32px;
   }
+  .header-icon-sec{
+    display: block;
+    font-size: 28px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+  }
 }
