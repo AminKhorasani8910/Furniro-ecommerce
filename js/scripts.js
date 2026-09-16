@@ -13,4 +13,6 @@ btn.addEventListener("click",function() {
 
 btnclose.addEventListener("click",function() {
     btnmenu.style.right= "-14rem";
+    btn.classList.toggle("fa-xmark");
+    btn.classList.toggle("fa-bars");
 })
