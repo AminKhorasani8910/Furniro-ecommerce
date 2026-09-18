@@ -472,6 +472,10 @@ body {
     display: block;
 }
 
+button{
+   cursor: pointer;
+}
+
 .container{
     max-width: 1168px;
     margin: 0 auto;
